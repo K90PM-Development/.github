@@ -15,7 +15,7 @@
 - ✅ IR Blaster
 - ✅ Vibration
 - ✅ Flashlight + Strength
-- ✅ UDFPS (icon off center)
+- ✅ UDFPS
 - ✅ Encryption
 
 ## Broken
