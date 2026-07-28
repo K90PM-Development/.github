@@ -7,7 +7,7 @@
 - ✅ Booting
 - ✅ Touch
 - ✅ Wifi + Hotspot
-- ✅ RIL
+- ✅ RIL (mobile data only)
 - ✅ Battery (Fuelgauge)
 - ✅ Bluetooth pair
 - ✅ Auto Brightness
@@ -19,7 +19,7 @@
 - ✅ Encryption
 
 ## Broken
-- ❌ Calls (Dialer freeze)
+- ❌ Calls (Dialer freeze when call/USSD dial)
 - ❌ Speaker + Bluetooth Audio
 - ❌ Microphone
 - ❌ Cameras (kinda works in 3rd party but no focus)
