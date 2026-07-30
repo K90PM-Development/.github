@@ -1,7 +1,7 @@
 # Custom ROM Development For K90PM/F8U (myron)
-
-- LineageOS: [@lolipuru](https://github.com/lolipuru)
-- EvolutionX: [@NullCode1337](https://github.com/NullCode1337)
+Maintainers: [@lolipuru](https://github.com/lolipuru), [@NullCode1337](https://github.com/NullCode1337)
+- LineageOS
+- EvolutionX
 
 ## Working
 - ✅ Booting
