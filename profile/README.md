@@ -15,6 +15,7 @@ Maintainers: [@lolipuru](https://github.com/lolipuru), [@NullCode1337](https://g
 - ✅ IR Blaster
 - ✅ Vibration
 - ✅ Flashlight + Strength
+- ✅ SELinux Enforcing
 - ✅ UDFPS
 - ✅ Encryption
 
@@ -23,7 +24,6 @@ Maintainers: [@lolipuru](https://github.com/lolipuru), [@NullCode1337](https://g
 - ❌ Speaker + Bluetooth Audio
 - ❌ Microphone
 - ❌ Cameras (kinda works in 3rd party but no focus)
-- ❌ SELinux Permissive
 - ❌ Double tap to wake
 - ❌ Screen off gestures
 
