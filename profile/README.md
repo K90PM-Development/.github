@@ -22,8 +22,9 @@ Maintainers: [@lolipuru](https://github.com/lolipuru), [@NullCode1337](https://g
 - ✅ UDFPS
 - ✅ Encryption
 
-## Broken
+## Known Issues
 - ❌ IMS (VoLTE)
+  - Probably related to IMS but I don't receive SMS, sending SMS works fine
 - ❌ Bluetooth Audio
 - ❌ Cameras (kinda works in 3rd party but no focus)
 - ❌ Double tap to wake
