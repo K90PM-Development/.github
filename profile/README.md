@@ -7,9 +7,12 @@ Maintainers: [@lolipuru](https://github.com/lolipuru), [@NullCode1337](https://g
 - ✅ Booting
 - ✅ Touch
 - ✅ Wifi + Hotspot
-- ✅ RIL (mobile data only)
+- ✅ Calls
+- ✅ RIL
 - ✅ Battery (Fuelgauge)
-- ✅ Bluetooth pair
+- ✅ Bluetooth + in-call audio
+- ✅ Speaker Audio
+- ✅ Microphone (really quiet)
 - ✅ Auto Brightness
 - ✅ Sensors
 - ✅ IR Blaster
@@ -20,15 +23,13 @@ Maintainers: [@lolipuru](https://github.com/lolipuru), [@NullCode1337](https://g
 - ✅ Encryption
 
 ## Broken
-- ❌ Calls (Dialer freeze when call/USSD dial)
-- ❌ Speaker + Bluetooth Audio
-- ❌ Microphone
+- ❌ IMS (VoLTE)
+- ❌ Bluetooth Audio
 - ❌ Cameras (kinda works in 3rd party but no focus)
 - ❌ Double tap to wake
 - ❌ Screen off gestures
 
 ## Untested
 - ❓ NFC
-- ❓ IMS (VoLTE)
 
 More untested? let me know!
