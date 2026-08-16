@@ -1,5 +1,5 @@
 # Custom ROM Development For K90PM/F8U (myron)
-Maintainers: [@lolipuru](https://github.com/lolipuru), [@NullCode1337](https://github.com/NullCode1337)
+Maintainers: [@NullCode1337](https://github.com/NullCode1337)
 - LineageOS
 - EvolutionX
 
@@ -8,29 +8,26 @@ Maintainers: [@lolipuru](https://github.com/lolipuru), [@NullCode1337](https://g
 - ✅ Touch
 - ✅ Wifi + Hotspot
 - ✅ Calls
-- ✅ RIL
+- ✅ RIL (IMS)
 - ✅ Battery (Fuelgauge)
-- ✅ Bluetooth + in-call audio
-- ✅ Speaker Audio
+- ❓ Camera (partial)*
+- ✅ Bluetooth
+- ✅ Audio
 - ✅ Microphone (really quiet)
 - ✅ Auto Brightness
 - ✅ Sensors
 - ✅ IR Blaster
 - ✅ Vibration
+- ✅ NFC
 - ✅ Flashlight + Strength
 - ✅ SELinux Enforcing
 - ✅ UDFPS
 - ✅ Encryption
 
+*video recording broken 
+
 ## Known Issues
-- ❌ IMS (VoLTE)
-  - Probably related to IMS but I don't receive SMS, sending SMS works fine
-- ❌ Bluetooth Audio
-- ❌ Cameras (kinda works in 3rd party but no focus)
-- ❌ Double tap to wake
-- ❌ Screen off gestures
+- ❌ Bose Sound
 
 ## Untested
-- ❓ NFC
-
-More untested? let me know!
+- More untested? let me know!
