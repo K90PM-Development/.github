@@ -10,7 +10,7 @@ Maintainers: [@NullCode1337](https://github.com/NullCode1337)
 - ✅ Calls
 - ✅ RIL (IMS)
 - ✅ Battery (Fuelgauge)
-- ❓ Camera (partial)*
+- ✅ Camera
 - ✅ Bluetooth
 - ✅ Audio
 - ✅ Microphone (really quiet)
@@ -22,9 +22,8 @@ Maintainers: [@NullCode1337](https://github.com/NullCode1337)
 - ✅ Flashlight + Strength
 - ✅ SELinux Enforcing
 - ✅ UDFPS
+- ✅ Double Tap to Wake
 - ✅ Encryption
-
-*video recording broken 
 
 ## Known Issues
 - ❌ Bose Sound
