@@ -19,6 +19,7 @@ Maintainers: [@NullCode1337](https://github.com/NullCode1337)
 - ✅ IR Blaster
 - ✅ Vibration
 - ✅ NFC
+- ✅ USB Tethering
 - ✅ Flashlight + Strength
 - ✅ SELinux Enforcing
 - ✅ UDFPS
