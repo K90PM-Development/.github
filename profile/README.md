@@ -9,12 +9,13 @@ Maintainers: [@NullCode1337](https://github.com/NullCode1337)
 - ✅ Wifi + Hotspot
 - ✅ Calls
 - ✅ RIL (IMS)
+- ✅ eSIM
 - ✅ Battery (Fuelgauge)
 - ✅ Camera
 - ✅ Bluetooth
 - ✅ Audio
 - ✅ Microphone (really quiet)
-- ✅ Auto Brightness
+- ✅ Auto Brightness (needs calibration)
 - ✅ Sensors
 - ✅ IR Blaster
 - ✅ Vibration
@@ -25,9 +26,11 @@ Maintainers: [@NullCode1337](https://github.com/NullCode1337)
 - ✅ UDFPS
 - ✅ Double Tap to Wake
 - ✅ Encryption
+- ✅ Dolby + Viper4Android
 
 ## Known Issues
-- ❌ Bose Sound
+- ❌ Bose surround / spatializer (misound)
+- ❌ eSIM switcher
 
 ## Untested
 - More untested? let me know!
