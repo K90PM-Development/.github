@@ -14,6 +14,7 @@ Maintainers: [@NullCode1337](https://github.com/NullCode1337)
 - ✅ Camera
 - ✅ Bluetooth
 - ✅ Audio
+- ✅ Bose 2.1 surround (misound)
 - ✅ Microphone (really quiet)
 - ✅ Auto Brightness (needs calibration)
 - ✅ Sensors
@@ -29,7 +30,6 @@ Maintainers: [@NullCode1337](https://github.com/NullCode1337)
 - ✅ Dolby + Viper4Android
 
 ## Known Issues
-- ❌ Bose surround / spatializer (misound)
 - ❌ eSIM switcher
 
 ## Untested
