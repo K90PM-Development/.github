@@ -1,11 +1,12 @@
 # Custom ROM Development For K90PM/F8U (myron)
 Maintainers: [@NullCode1337](https://github.com/NullCode1337)
 - LineageOS
-- EvolutionX
+- EvolutionX OFFICIAL (WIP)
 
 ## Working
 - ✅ Booting
 - ✅ Touch
+- ✅ HDR
 - ✅ Wifi + Hotspot
 - ✅ Calls
 - ✅ RIL (IMS)
@@ -27,7 +28,7 @@ Maintainers: [@NullCode1337](https://github.com/NullCode1337)
 - ✅ UDFPS
 - ✅ Double Tap to Wake
 - ✅ Encryption
-- ✅ Dolby + Viper4Android
+- ✅ Viper4Android
 
 ## Known Issues
 - ❌ eSIM switcher
